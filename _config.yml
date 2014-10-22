@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://infall.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 码农人生
+subtitle: worldcbf's coding life
+author: worldcbf
 simple_search: https://www.google.com/search
-description:
+description: Believe in yourself!
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
