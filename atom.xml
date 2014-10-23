@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[码农人生]]></title>
+  <title><![CDATA[阅微小筑]]></title>
   <link href="http://infall.github.io/atom.xml" rel="self"/>
   <link href="http://infall.github.io/"/>
-  <updated>2014-10-23T01:01:02+08:00</updated>
+  <updated>2014-10-23T23:41:49+08:00</updated>
   <id>http://infall.github.io/</id>
   <author>
     <name><![CDATA[worldcbf]]></name>
